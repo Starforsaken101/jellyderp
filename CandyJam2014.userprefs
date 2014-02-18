@@ -1,0 +1,21 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\MenuController.cs">
+    <Files>
+      <File FileName="Assets\Scripts\LevelAtlas.cs" Line="59" Column="1" />
+      <File FileName="Assets\Scripts\LevelData.cs" Line="16" Column="28" />
+      <File FileName="Assets\Scripts\CandyAnnouncer.cs" Line="19" Column="3" />
+      <File FileName="Assets\Scripts\GameController.cs" Line="99" Column="51" />
+      <File FileName="Assets\Scripts\CandyGrid.cs" Line="64" Column="4" />
+      <File FileName="Assets\Scripts\CandyProgressBar.cs" Line="30" Column="3" />
+      <File FileName="Assets\Scripts\EndGamePopup.cs" Line="31" Column="3" />
+      <File FileName="Assets\Scripts\MenuController.cs" Line="10" Column="32" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="D:\GameJams\CandyJam2014\Assets\Scripts\LevelAtlas.cs" line="59" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
